@@ -27,7 +27,22 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Github Stats
+## Github Stats
+
+### 💻 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yosbenj)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosbenj&show_icons=true&theme=radical)
+
+### 📊 GitHub Profile Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosbenj&show_icons=true)
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yosbenj)
+
+### 📌 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosbenj&layout=compact)
+
+_Note: Top languages does not indicate my skill level or anything like that, it's just a metric of what languages my public code consists of and doesn't reflect experience or skill level._
