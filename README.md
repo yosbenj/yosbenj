@@ -4,7 +4,7 @@
 
 ## Data Analyst
 
-- 📊 Passionate about data analytics and challenges, with a solid foundation in nutrition and public health. 
+- 📊 Passionate about data analytics, with a solid foundation in nutrition and public health. 
 - 🌱 I am constantly seeking to expand my knowledge and tackle new challenges. 
 - 🚀 Open to a world of possibilities where I can apply my analytical skills for impactful outcomes. 
 
