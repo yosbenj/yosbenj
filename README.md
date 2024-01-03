@@ -2,15 +2,11 @@
 
 # Hi, I'm Yosra Benjelloun El Hassani!
 
-## Data Analyst with a background in Nutrition and Public Health
+## Data Analyst
 
-### About me
-
-- 🔭 Leveraging data analysis to improve community health outcomes, with a keen eye on nutrition and public health matters.
-- 🌱 Deepening my expertise in data mining and visualization, aiming to uncover patterns that can inform better health policies.
-- 👯 Eager to collaborate on projects where my data analytics skills contribute to meaningful advances in health and wellness.
-- 💬 I'm passionate about the role of data science in driving public health initiatives. Ask me about the power of statistics in making a difference.
-- 🚀 Open to exploring new challenges and opportunities that allow me to make a positive impact with my analytical skills.
+📊 Passionate about data analytics, with a solid foundation in nutrition and public health. 
+🌱 I am constantly seeking to expand my knowledge and tackle new challenges. 
+🚀 Open to a world of possibilities where I can apply my skills for impactful outcomes.
 
 ### Connect with me
 
@@ -28,9 +24,9 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ### Github Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[yosbenj])
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[yosbenj]&show_icons=true&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yosbenj)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosbenj&show_icons=true&theme=radical)
