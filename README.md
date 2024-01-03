@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-# Hi, I'm Yosra Benjelloun El Hassani!🙋🏽‍♀️
+# Hi, I'm Yosra!🙋🏽‍♀️
 
 ## Data Analyst
 
