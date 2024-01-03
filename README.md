@@ -29,20 +29,35 @@
 
 ## Github Stats
 
-### 💻 Streak Stats
+<details>
+  <summary>💻 Streak Stats (Click to expand!)</summary>
+  <br>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yosbenj)
+  
+</details>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yosbenj)
+<details>
+  <summary>📊 GitHub Profile Stats (Click to expand!)</summary>
+  <br>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosbenj&show_icons=true)
+  
+</details>
 
-### 📊 GitHub Profile Stats
+<details>
+  <summary>🏆 GitHub Trophies (Click to expand!)</summary>
+  <br>
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=yosbenj)
+  
+</details>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosbenj&show_icons=true)
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yosbenj)
-
-### 📌 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosbenj&layout=compact)
-
-_Note: Top languages does not indicate my skill level or anything like that, it's just a metric of what languages my public code consists of and doesn't reflect experience or skill level._
+<details>
+  <summary>📌 Most Used Languages (Click to expand!)</summary>
+  <br>
+  
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosbenj&layout=compact)
+  
+  _Note: Top languages does not indicate my skill level or anything like that, it's just a metric of what languages my public code consists of and doesn't reflect experience or skill level._
+</details>
